@@ -59,3 +59,6 @@ Users use this application by entering their customer ID (it must be an email), 
 - `monitoring_langfuse.py`: set up langfuse for observability.
 - `requirements.txt`: Lists the dependencies required for the project.
 - `.env`: Contains environment variables for the project.
+
+## Screenshot
+![test](docs/test.png)
