@@ -1,0 +1,54 @@
+--- Title: Khắc phục lỗi Chuyển khoản do Lỗi Đường truyền Internet ---
+Topic: Technical/Transfer Error
+Solution ID: TRAN-001
+
+Khi khách hàng báo cáo lỗi chuyển khoản do mạng internet không ổn định hoặc lỗi kết nối thiết bị, hãy hướng dẫn khách hàng theo các bước sau:
+1. Xác định nguyên nhân: Khách hàng cần kiểm tra xem lỗi là do thiết bị hay do nhà mạng cung cấp dịch vụ internet.
+2. Kiểm tra giao dịch: Khách hàng cần kiểm tra tài khoản đã trừ tiền chưa.
+3. Nếu giao dịch CHƯA thành công: Sử dụng thiết bị có kết nối mạng ổn định và thực hiện lại giao dịch.
+4. Nếu giao dịch ĐÃ thành công: Thông báo người nhận kiểm tra tài khoản. Lỗi đường truyền thường chỉ treo giao dịch tạm thời.
+---
+
+--- Title: Hướng dẫn xử lý lỗi Chuyển khoản do Hệ thống Ngân hàng Nâng cấp ---
+Topic: Technical/System Error
+Solution ID: TRAN-002
+
+Lỗi này thường xảy ra khi hệ thống ngân hàng đang nâng cấp, sửa lỗi, hoặc do lỗi gián đoạn hệ thống chuyển mạch.
+1. Khách hàng không cần làm gì: Thông thường, lỗi này chỉ diễn ra trong thời gian ngắn (vài phút đến vài giờ).
+2. Xử lý: Khách hàng nên thoát khỏi ứng dụng/hệ thống và chờ ngân hàng khắc phục lỗi xong.
+3. Thực hiện lại: Sau khi nhận thông báo hệ thống đã ổn định, thực hiện lại giao dịch.
+---
+
+--- Title: Xử lý Chuyển khoản Thất bại do Sai Thông tin Người nhận ---
+Topic: Transfer Error/User Error
+Solution ID: TRAN-003
+
+Nguyên nhân: Người gửi chuyển sai thông tin tài khoản hoặc người nhận nhập sai thông tin.
+1. Người gửi cần kiểm tra lại: So sánh phần nhập thông tin với thông tin đã nhận được. Nhập lại nếu sai số tài khoản.
+2. Nếu đã nhập đúng: Yêu cầu người gửi thông tin gửi lại thông tin chính xác hoặc cung cấp một tài khoản khác để đảm bảo giao dịch thành công.
+3. Lưu ý: Luôn kiểm tra lại tên người thụ hưởng hiển thị sau khi nhập số tài khoản trước khi xác nhận chuyển tiền.
+---
+
+--- Title: Xử lý Chuyển khoản đã trừ tiền nhưng Người thụ hưởng chưa nhận được (Chuyển thường/Lễ Tết) ---
+Topic: Transfer Status/Billing
+Solution ID: BILL-002
+
+Trường hợp chuyển tiền bằng dịch vụ chuyển thường (không 24/7) hoặc vào các dịp đặc biệt (Lễ, Tết, cuối tuần), tiền thường bị treo lại:
+1. Chờ đợi: Người thụ hưởng có thể nhận được tiền trong vòng **24 giờ làm việc** (không kể ngày lễ, cuối tuần).
+2. Kiểm tra: Nếu tài khoản đã trừ tiền hoặc bị treo quá lâu, người gửi cần:
+    * Liên hệ Tổng đài ngân hàng hoặc chi nhánh.
+    * Cung cấp Mã giao dịch chuyển tiền để kiểm tra.
+    * Làm theo hướng dẫn của nhân viên ngân hàng.
+3. Khuyến nghị: Sử dụng dịch vụ chuyển tiền nhanh 24/7 (hệ thống Napas) để giao dịch thành công ngay lập tức.
+---
+
+--- Title: Hướng dẫn Khắc phục Chuyển nhầm Tài khoản (Sai số tài khoản) ---
+Topic: Billing/Transfer Error
+Solution ID: TRAN-005
+
+Nếu bạn chuyển nhầm tài khoản, cần thực hiện các thao tác sau thật nhanh chóng:
+1. Thu thập bằng chứng: Chụp lại màn hình thông báo giao dịch thành công, lưu lại thông tin người nhận nhầm và số tiền.
+2. Liên hệ Ngân hàng ngay lập tức: Cung cấp mã giao dịch và thông tin chi tiết cho tổng đài hoặc chi nhánh.
+3. Vai trò của Ngân hàng: Ngân hàng sẽ liên hệ với người nhận nhầm tiền để yêu cầu hoàn trả số tiền.
+4. Pháp lý (Nếu cần): Nếu người nhận nhầm không hợp tác, bạn hãy liên hệ với cơ quan chức năng để can thiệp và hỗ trợ lấy lại tiền.
+---
